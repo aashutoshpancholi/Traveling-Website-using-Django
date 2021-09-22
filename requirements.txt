@@ -2,7 +2,7 @@ asgiref==3.2.7
 config==0.5.0.post0
 decouple==0.0.7
 dj-database-url==0.5.0
-Django==3.0.6
+Django==3.1.13
 django-widget-tweaks==1.4.8
 Jinja2==2.11.2
 Markdown==3.2.2
